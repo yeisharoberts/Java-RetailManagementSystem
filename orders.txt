@@ -1,0 +1,24 @@
+O516	P005	Bouquet B	Non-Fragile	Soup	2	118.0	(Pruple/ 99 stalks) Used for home decoration with fragrance	236.0	Yareesha	 BA Pasar Seni Jalan Hang Kasturi, Kuala Lumpur,50050, KL.	011-22334455	238.0	2021.09.02
+O428	P001	Flower A	Non-Fragile	Paper	1	2.0	(Bunch) Used For Home Decoration	2.0		Yareesha	 BA Pasar Seni Jalan Hang Kasturi, Kuala Lumpur,50050, KL.	011-22334455	238.0	2021.09.02
+O577	P003	Flower C	Non-Fragile	Paper	1	2.0	(Pink / Bunch) Used For Home Decoration	2.0	yareesha	 BA Pasar Seni Jalan Hang Kasturi, Kuala Lumpur,50050, KL.	011-22334455	yareesha@gmail.com	2021.09.02
+O050	P001	Flower A	Non-Fragile	Paper	2	2.0	(Bunch) Used For Home Decoration	4.0	yareesha	 BA Pasar Seni Jalan Hang Kasturi, Kuala Lumpur,50050, KL.	011-22334455	yareesha@gmail.com	2021.09.02
+O373	P004	Bouquet A	Non-Fragile	Soup	1	108.0	(Red/ 99 stalks) Used for home decoration with fragrance	108.0	yareesha	 BA Pasar Seni Jalan Hang Kasturi, Kuala Lumpur,50050, KL.	011-22334455	yareesha@gmail.com	2021.09.02
+O525	P006	G.Vases A	—Fragile	glass	2	15.5	(INS style) Photography Glass Vase for dried flower or artificial flower	31.0	yareesha	 BA Pasar Seni Jalan Hang Kasturi, Kuala Lumpur,50050, KL.	011-22334455	yareesha@gmail.com	2021.09.02
+O953	P003	Flower C	Non-Fragile	Paper	1	2.0	(Pink / Bunch) Used For Home Decoration	2.0	yareesha	 BA Pasar Seni Jalan Hang Kasturi, Kuala Lumpur,50050, KL.	011-22334455	yareesha@gmail.com	2021.09.02
+O161	P001	Flower A	Non-Fragile	Paper	1	2.0	(Bunch) Used For Home Decoration	2.0	yareesha	 BA Pasar Seni Jalan Hang Kasturi, Kuala Lumpur,50050, KL.	011-22334455	yareesha@gmail.com	2021.09.02
+O603	P006	G.Vases A	—Fragile	glass	1	15.5	(INS style) Photography Glass Vase for dried flower or artificial flower	15.5	yareesha	 BA Pasar Seni Jalan Hang Kasturi, Kuala Lumpur,50050, KL.	011-22334455	yareesha@gmail.com	2021.09.02
+O184	P007	C.Vases B	—Fragile	ceramic	1	20.0	(INS style)  Ceramic Vase Living Room Flower Arrangement Dried Flower/ Artificial Flower Decoration.	20.0		Yareesha	 BA Pasar Seni Jalan Hang Kasturi, Kuala Lumpur,50050, KL.	011-22334455	35.5	2021.09.02
+O437	P006	G.Vases A	—Fragile	glass	1	15.5	(INS style) Photography Glass Vase for dried flower or artificial flower	15.5		Yareesha	 BA Pasar Seni Jalan Hang Kasturi, Kuala Lumpur,50050, KL.	011-22334455	35.5	2021.09.02
+O675	P004	Bouquet A	Non-Fragile	Soup	1	108.0	(Red/ 99 stalks) Used for home decoration with fragrance	108.0		Yareesha	 BA Pasar Seni Jalan Hang Kasturi, Kuala Lumpur,50050, KL.	011-22334455	128.0	2021.09.02
+O401	P007	C.Vases B	—Fragile	ceramic	1	20.0	(INS style)  Ceramic Vase Living Room Flower Arrangement Dried Flower/ Artificial Flower Decoration.	20.0		Yareesha	 BA Pasar Seni Jalan Hang Kasturi, Kuala Lumpur,50050, KL.	011-22334455	128.0	2021.09.02
+O254	P006	G.Vases A	—Fragile	glass	1	15.5	(INS style) Photography Glass Vase for dried flower or artificial flower	15.5		Yareesha	 BA Pasar Seni Jalan Hang Kasturi, Kuala Lumpur,50050, KL.	011-22334455	23.0	2021.09.02
+O757	P008	P.Vases C	Non-Fragile	Plastic	1	7.5	(White & blue)  Unbrerakable Plastic Vase | Nordic Style | Living Room	7.5		Yareesha	 BA Pasar Seni Jalan Hang Kasturi, Kuala Lumpur,50050, KL.	011-22334455	23.0	2021.09.02
+O683	P004	Bouquet A	Non-Fragile	Soup	1	108.0	(Red/ 99 stalks) Used for home decoration with fragrance	108.0		Yareesha	 BA Pasar Seni Jalan Hang Kasturi, Kuala Lumpur,50050, KL.	011-22334455	128.0	2021.09.02
+O129	P007	C.Vases B	—Fragile	ceramic	1	20.0	(INS style)  Ceramic Vase Living Room Flower Arrangement Dried Flower/ Artificial Flower Decoration.	20.0		Yareesha	 BA Pasar Seni Jalan Hang Kasturi, Kuala Lumpur,50050, KL.	011-22334455	128.0	2021.09.02
+O683	P004	Bouquet A	Non-Fragile	Soup	1	108.0	(Red/ 99 stalks) Used for home decoration with fragrance	108.0		null	null	null	246.0	2021.09.02
+O129	P007	C.Vases B	—Fragile	ceramic	1	20.0	(INS style)  Ceramic Vase Living Room Flower Arrangement Dried Flower/ Artificial Flower Decoration.	20.0		null	null	null	246.0	2021.09.02
+O137	P005	Bouquet B	Non-Fragile	Soup	1	118.0	(Pruple/ 99 stalks) Used for home decoration with fragrance	118.0		null	null	null	246.0	2021.09.02
+O262	P004	Bouquet A	Non-Fragile	Soup	1	108.0	(Red/ 99 stalks) Used for home decoration with fragrance	108.0		null	null	null	123.5	2021.09.02
+O108	P006	G.Vases A	—Fragile	glass	1	15.5	(INS style) Photography Glass Vase for dried flower or artificial flower	15.5		null	null	null	123.5	2021.09.02
+O167	P007	C.Vases B	—Fragile	ceramic	1	20.0	(INS style)  Ceramic Vase Living Room Flower Arrangement Dried Flower/ Artificial Flower Decoration.	20.0		null	null	null	20.0	2021.09.02
+O040	P006	G.Vases A	—Fragile	glass	2	15.5	(INS style) Photography Glass Vase for dried flower or artificial flower	31.0	Yareesha	 BA Pasar Seni Jalan Hang Kasturi, Kuala Lumpur,50050, KL.	011-22334455	31.0	2022.01.25

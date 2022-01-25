@@ -1,0 +1,6 @@
+C001	Yareesha	yareesha	yaree1234	Female	011-22334455	yareesha@gmail.com	 BA Pasar Seni Jalan Hang Kasturi, Kuala Lumpur,50050, KL.
+C002	Tan Li Yu	fish0531	fish0531	Female	018-2250297	liyu53@gmail.com	1 Wisma Yan Jln Seksyen 52 Petaling Jaya,46200,Selangor
+C003	Chan Wai Jin	markChan	mark123456	Male	016-9894621	mark123@gmail.com	A9-G-5, Jalan Maju 1/11, Taman Lembah Maju, 56100, Kuala Lumpur
+C004	Lee Kim Lam	Jasonlee	jasonisme	Male	017-9544553	jason0504@gmail.com	D229, Jalan Bukit Setongkol, 25200, Kuantan , Pahang.
+C005	Kang Wen Hao	wenhao_K	wenhaoisme	Male	016-3482833	wen0918@gmail.com	B-7, Jalan Merah, Taman Merah Putih, 50100, KL
+

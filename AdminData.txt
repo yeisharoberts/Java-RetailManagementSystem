@@ -1,0 +1,3 @@
+A001	Lee Xin Yi	adeline0603	123456	Female	016-9894626	adeline@gmail.com	12A, Floor Jln Bunga, Taman Bunga Cempaka,68000,Selangor.	
+A002	Tay Li Ling	tayling0011	000111	Female	016-5953329	tayling@gmail.com	A1-05, Jalan Sulaiman I,Taman Putra Sulaiman,56100,KL
+A003	Wong Meng	wongmeng55	555555	Male	011-36142122	wongmeng@gmail.com	No. 18 B Jln Dato Abdul Malek, 50050, Kuala Lumpur.

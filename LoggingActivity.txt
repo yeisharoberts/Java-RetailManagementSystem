@@ -1,0 +1,13 @@
+Admin   adeline0603   2021.09.02   06.03.15   IN
+Admin   adeline0603   2021.09.02   06.21.17   OUT
+Customer   C001   2021.09.02   06.23.13   IN
+Customer   C001   2021.09.02   06.23.52   OUT
+Customer   yareesha   2021.09.02   19.34.49   IN
+Customer   yareesha   2021.09.02   19.35.01   OUT
+Customer   yareesha   2021.09.02   19.36.24   IN
+Customer   yareesha   2021.09.02   20.28.56   IN
+Customer   yareesha   2021.09.02   20.38.28   IN
+Customer   yareesha   2021.09.02   20.52.25   IN
+Customer   yareesha   2021.09.02   23.17.44   IN
+Customer   yareesha   2021.09.02   23.19.15   IN
+Customer   yareesha   2022.01.25   12.10.39   IN
